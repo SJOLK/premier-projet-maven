@@ -16,7 +16,7 @@
   </properties>
 
   <build>
-    <finalName>${project.artifactId}</finalName> ①
+    <finalName>${project.artifactId}</finalName>
   </build>
 
   <dependencies>
